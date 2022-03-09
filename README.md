@@ -1,5 +1,6 @@
 # Name It - Project/Venture Name Generator 
 
+Check it out --> https://tamanna-verma.github.io/NameIt/
 What is does?
 
 A lot of people find it difficult to name their project or their ventures , so this app is gonna help you find a good name for your project /venture .
